@@ -17,7 +17,7 @@ def creat_base(old_base: str, new_base: str):
     except Exception as e:
         logger.error(f'Ошибка {e}')
 
-
+# так так
 
 old_base = 'postgres'
 new_base = 'test'
